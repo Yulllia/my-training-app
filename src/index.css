@@ -1,0 +1,9 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.app {
+  max-width: 1000px;
+  margin: 50px auto;
+}
+
